@@ -3,7 +3,7 @@
 </div>
 
 ## 💁‍♂️**Introduction**
-A final project of Data Science Bootcamp Batch 20 in [Rakamin Academy](https://www.rakamin.com/). In this project, as a team of Data Scientists from an ecommerce company, we were given the task of being able to predict the purchase intention of customers by machine learning.
+A final project of Data Science Bootcamp Batch 20 in [Rakamin Academy](https://www.rakamin.com/). In this project, as a team of Data Scientists from an ecommerce company, we were given the task of being able to predict the purchase intention of customers by machine learning. all files attached to this repository are original, as memories of the first data science project as a team
 
 ## ℹ️**Dataset**
 This dataset obtained from **Kaggle** [Online Shoppers Purchasing Intention](https://www.kaggle.com/datasets/imakash3011/online-shoppers-purchasing-intention-dataset). The dataset consists of feature vectors belonging to **12,330 sessions**, was formed so that each sessionwould belong to a different user in a **1-year period** to avoid
@@ -26,5 +26,7 @@ Build machine learning model to predict which users visit a website with intenti
 In this project, we divide into **4 stages**:
 1. Stage 1 - Preparation: We study the selected project and dataset. The key takeaways in this stage are who we are in the project, the problem statement, the goals and objectives we want to achieve and lastly are the business metrics.
 2. Stage 2 - EDA: We start to reach the dataset to get the characteristics of the data. We separated the process into 3 steps, starting from data exploration, EDA, and gathering insights on datasets related to the main problem and objectives.
-3. Stage 3 - Preprocessing: We handle the data to be the cleanest data before starting the modeling process. We address outliers, label the encoding as well as one hot encoding, and determine which feature engineering we choose.
+3. Stage 3 - Preprocessing: We handle the data to be the cleanest data before starting the modeling process. We address outliers, feature encoding, and determine which feature engineering we choose.
 4. Stage 4 - Supervised Learning: We enter the modeling process and explore several algorithms to improve based on the features and targets we have selected.
+
+
